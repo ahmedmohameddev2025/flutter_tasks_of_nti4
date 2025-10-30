@@ -169,7 +169,6 @@ class MyApp extends StatelessWidget {
               Row(
                 children: [
                   SizedBox(width: 20),
-
                   Text(
                     "Subtotal",
                     style: TextStyle(

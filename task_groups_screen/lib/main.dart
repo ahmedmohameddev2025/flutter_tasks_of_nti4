@@ -1,5 +1,3 @@
-//اسأل كيف اطلع الكونتينر و Hello and ahmed mohamed في ال AppBar
-//اسأل عن الكونتينر الاسمر
 import 'package:flutter/material.dart';
 
 void main() {
@@ -177,7 +175,7 @@ class MyApp extends StatelessWidget {
                         children: [
                           SizedBox(
                             height: 50,
-                          ), // اسأل هنا
+                          ), 
                           SizedBox(width: 20),
                           Text(
                             "Work Task",
